@@ -109,6 +109,7 @@ Haris Siddiqui
 - Rushabh Doshi
 - [Kevin Schoormans] (https://github.com/kevinschoormans)
 - Justin Wong
+- Jason Yang
 - Saksham Agrawal
 - Harsh Sulakhe (https://github.com/HarshSulakhe)
 - Chirag Jindal(https://github.com/cjindal013)
